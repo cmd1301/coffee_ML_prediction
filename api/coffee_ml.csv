@@ -1,0 +1,1030 @@
+country_of_origin,region,harvest_year,variety,processing_method,altitude_mean_meters,total_cup_points
+ethiopia,guji-hambela,2014,other,washed-wet,2075.0,89.92
+guatemala,,,bourbon,,1700.0,89.75
+ethiopia,guji-hambela,2014,other,washed-wet,2075.0,88.83
+peru,,2012,other,washed-wet,,88.75
+ethiopia,"snnp/kaffa zone,gimbowereda",2014,other,natural-dry,1822.5,88.25
+united states,antioquia,2014,other,washed-wet,1872.0,87.92
+united states,antioquia,2014,other,washed-wet,1943.0,87.92
+united states,antioquia,2014,other,washed-wet,2080.0,87.58
+china,yunnan,2015,catimor,washed-wet,1450.0,87.25
+united states,antioquia,2014,other,washed-wet,2019.0,87.25
+costa rica,san ramon,2014,caturra,washed-wet,1300.0,87.17
+mexico,xalapa,2012,other,washed-wet,1320.0,87.17
+united states,antioquia,2014,other,washed-wet,2112.0,87.08
+brazil,south of minas,2011,bourbon,natural-dry,1250.0,86.92
+uganda,kapchorwa eastern,2013,sl14,washed-wet,1950.0,86.83
+honduras,comayagua,2016,caturra,,1400.0,86.67
+brazil,vale da grama,2011,bourbon,natural-dry,1300.0,86.42
+costa rica,west and central valley,2015,caturra,washed-wet,1300.0,86.33
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,86.25
+united states,antioquia,2014,other,washed-wet,1941.0,86.17
+thailand,chiang rai,2012,caturra,washed-wet,1300.0,86.17
+taiwan,natou county,2015,bourbon,semi-washed-semi-pulped,1000.0,86.08
+kenya,nyeri,2014,sl28,natural-dry,1754.0,86.08
+brazil,south of minas,2011,bourbon,semi-washed-semi-pulped,1250.0,86.08
+colombia,tolima,2013,caturra,washed-wet,1200.0,86.0
+kenya,kiambu,2013,sl28,washed-wet,1860.0,86.0
+uganda,"sipi, mt elgon",2012,other,washed-wet,1650.0,86.0
+guatemala,nuevo oriente,2016,bourbon,washed-wet,,85.92
+uganda,eastern,2013,sl14,natural-dry,1650.0,85.92
+colombia,huila,2013,caturra,washed-wet,1800.0,85.92
+panama,boquete,2017,gesha,washed-wet,1600.0,85.83
+guatemala,acatenango,2012,bourbon,washed-wet,1524.0,85.83
+guatemala,nuevo oriente,2012,catuai,washed-wet,1417.32,85.83
+ethiopia,addis ababa,2017,caturra,natural-dry,,85.75
+el salvador,apaneca,2013,bourbon,washed-wet,1500.0,85.58
+el salvador,"ataco, apaneca - ilamatepec mountain range",2012,bourbon,semi-washed-semi-pulped,1350.0,85.58
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,85.58
+panama,boquete,2014,caturra,natural-dry,1680.0,85.5
+kenya,kirinyaga,2014,sl28,natural-dry,1900.0,85.5
+ethiopia,oromia,2015,other,natural-dry,1900.0,85.5
+uganda,bulambuli eastern region,2013,sl14,washed-wet,1600.0,85.5
+guatemala,huehuetenango,2013,bourbon,washed-wet,1731.264,85.5
+uganda,kapchorwa,2013,sl14,washed-wet,1950.0,85.42
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,85.42
+brazil,south of minas,2011,bourbon,semi-washed-semi-pulped,1250.0,85.42
+china,yunnan,2015,catimor,natural-dry,1700.0,85.33
+costa rica,west valley,2014,caturra,washed-wet,1300.0,85.33
+costa rica,san ramon,2014,caturra,washed-wet,1300.0,85.33
+ethiopia,yirgacheffe,2009,typica,,,85.33
+guatemala,oriente,2016,bourbon,,,85.25
+colombia,santander,2015,caturra,washed-wet,1550.0,85.25
+colombia,santander,2014,caturra,natural-dry,1550.0,85.25
+guatemala,huehuetenango,2012,caturra,washed-wet,1400.0,85.17
+ethiopia,"kefa zone, gimbo distict, at a place called woka araba, south west ethiopia.",2016,other,natural-dry,,85.08
+colombia,pasto,2015,caturra,natural-dry,2560.0,85.08
+united states (hawaii),kona,2014,hawaiian kona,natural-dry,,85.08
+colombia,cundinamarca,2012,caturra,natural-dry,2136.0,85.08
+uganda,eastern uganda,2016,sl14,washed-wet,1800.0,85.0
+colombia,huila,2016,caturra,washed-wet,,85.0
+costa rica,tarrazu,2016,catuai,washed-wet,1900.0,85.0
+mexico,veracruz,2015,typica,washed-wet,1300.0,85.0
+brazil,grama valley,2012,mundo novo,natural-dry,1100.0,85.0
+colombia,huila,2016,caturra,washed-wet,,84.92
+colombia,huila,2015,caturra,washed-wet,1775.0,84.92
+taiwan,natou county,2015,typica,semi-washed-semi-pulped,800.0,84.92
+"tanzania, united republic of",mbeya,2014,other,washed-wet,1620.0,84.92
+colombia,huila,2012,caturra,washed-wet,1775.0,84.92
+mexico,coatepec,2012,typica,semi-washed-semi-pulped,1200.0,84.92
+brazil,south of minas,2011,bourbon,natural-dry,1200.0,84.92
+brazil,south of minas,2011,catuai,natural-dry,1000.0,84.92
+taiwan,"dongshan dist., tainan city 臺南市東山區",2016,typica,natural-dry,350.0,84.83
+uganda,eastern,2013,sl14,natural-dry,1650.0,84.83
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,84.83
+thailand,thailand,2015,caturra,pulped natural-honey,,84.75
+honduras,marcala,2014,catuai,washed-wet,1450.0,84.75
+el salvador,apaneca,2016,bourbon,washed-wet,1350.0,84.67
+costa rica,tarrazu,2015,catuai,washed-wet,1150.0,84.67
+guatemala,acatenango,2015,bourbon,washed-wet,1600.0,84.67
+costa rica,tarrazu,2014,caturra,washed-wet,1750.0,84.67
+costa rica,costa rica,2014,other,other,1750.0,84.67
+costa rica,west valley,2014,catuai,washed-wet,1200.0,84.67
+taiwan,taichung xinshe 台中市新社區,2013,typica,washed-wet,1000.0,84.67
+colombia,santander,2013,caturra,washed-wet,1550.0,84.67
+kenya,nyeri,2012,sl28,washed-wet,2000.0,84.67
+guatemala,oriente,2012,bourbon,washed-wet,1310.64,84.67
+guatemala,acatenango,2012,bourbon,washed-wet,1524.0,84.67
+mexico,el remudadero,2012,typica,washed-wet,1200.0,84.67
+uganda,mbale,2012,other,washed-wet,1775.0,84.67
+colombia,santander,2016,other,washed-wet,1500.0,84.58
+colombia,huila,2016,caturra,washed-wet,,84.58
+guatemala,jalapa,2014,pacas,washed-wet,1524.0,84.58
+guatemala,oriente,2014,bourbon,washed-wet,1219.2,84.58
+colombia,santander,2013,caturra,washed-wet,1550.0,84.58
+colombia,huila,2013,caturra,washed-wet,1750.0,84.58
+kenya,,2013,sl28,washed-wet,,84.58
+colombia,huila,2012,caturra,washed-wet,1750.0,84.58
+costa rica,tres rios,2012,bourbon,semi-washed-semi-pulped,1575.0,84.58
+colombia,huila,2012,caturra,washed-wet,1800.0,84.58
+brazil,vale da grama,2011,bourbon,semi-washed-semi-pulped,1300.0,84.58
+brazil,mountains of minas gerais,2011,catuai,semi-washed-semi-pulped,1100.0,84.58
+costa rica,valle central,2017,caturra,washed-wet,1200.0,84.5
+uganda,eastern uganda,2016,sl14,washed-wet,1750.0,84.5
+china,yunnan,2015,catimor,washed-wet,1680.0,84.5
+costa rica,tarrazu,2014,caturra,washed-wet,1700.0,84.5
+colombia,cauca,2015,other,washed-wet,1800.0,84.5
+china,yunnan,2013,other,washed-wet,1100.0,84.5
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,84.5
+kenya,nyeri,2012,sl28,washed-wet,2000.0,84.5
+mexico,hustusco,2012,typica,washed-wet,1350.0,84.5
+mexico,jaltenango,2012,typica,washed-wet,1500.0,84.5
+guatemala,"el tumbador, san marcos",2012,bourbon,washed-wet,,84.5
+costa rica,tarrazu,2016,caturra,washed-wet,1300.0,84.42
+colombia,pitalito,2015,caturra,natural-dry,,84.42
+colombia,huila,2014,caturra,washed-wet,1775.0,84.42
+taiwan,"mountain ali, taiwan",2012,typica,washed-wet,1200.0,84.42
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,84.42
+kenya,nyeri,2017,sl28,washed-wet,1800.0,84.33
+honduras,comayagua,2016,caturra,,1500.0,84.33
+colombia,huila,2016,caturra,washed-wet,,84.33
+honduras,central region,2016,catuai,washed-wet,1500.0,84.33
+colombia,huila,2015,caturra,natural-dry,442.0,84.33
+colombia,huila,2013,caturra,washed-wet,1800.0,84.33
+mexico,tuxtla gutierrez,2012,typica,washed-wet,1700.0,84.33
+brazil,vale da grama,2011,yellow bourbon,,1275.0,84.33
+taiwan,國姓鄉 guoshing township,2016,typica,washed-wet,1000.0,84.25
+thailand,chiang rai thailand,2015,catimor,natural-dry,1200.0,84.25
+colombia,nariño,2016,caturra,natural-dry,2560.0,84.25
+guatemala,antigua,2016,caturra,washed-wet,1500.0,84.25
+guatemala,huehuetenango,2015,caturra,washed-wet,1099.4136,84.25
+china,yunnan,2015,catimor,natural-dry,1400.0,84.25
+colombia,huila,2015,caturra,washed-wet,1775.0,84.25
+colombia,huila,2015,caturra,washed-wet,1775.0,84.25
+colombia,cauca,2015,other,washed-wet,1800.0,84.25
+colombia,huila,2015,caturra,natural-dry,442.0,84.25
+"tanzania, united republic of",shizingo village,2014,other,washed-wet,1620.0,84.25
+"tanzania, united republic of",mbeya,2014,other,washed-wet,1600.0,84.25
+guatemala,oriente,2014,bourbon,other,1219.2,84.25
+colombia,cauca,2013,caturra,washed-wet,1700.0,84.25
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,84.25
+mexico,san pedro cotzilnam,2012,typica,semi-washed-semi-pulped,1450.0,84.25
+mexico,veracruz,2012,bourbon,washed-wet,1170.0,84.25
+mexico,"la concordia, chiapas",2012,bourbon,washed-wet,1400.0,84.25
+uganda,kasese,2012,other,natural-dry,1700.0,84.25
+guatemala,san marcos,2017,bourbon,washed-wet,1700.0,84.17
+colombia,huila,2016,caturra,washed-wet,,84.17
+costa rica,tarrazu,2016,caturra,washed-wet,1700.0,84.17
+guatemala,huehuetenango,2016,caturra,washed-wet,1116.7872,84.17
+guatemala,solola,2016,caturra,washed-wet,1565.0,84.17
+guatemala,norte,2016,bourbon,washed-wet,3280.0,84.17
+colombia,huila,2015,caturra,washed-wet,1775.0,84.17
+nicaragua,jinotega,2015,caturra,natural-dry,1000.0,84.17
+brazil,cerrado,2015,catuai,natural-dry,1150.0,84.17
+costa rica,tarrazu,2014,caturra,washed-wet,1850.0,84.17
+ethiopia,snnprg; kafa; telo woreda; shada kebele,2014,gesha,natural-dry,1606.5,84.17
+"tanzania, united republic of",arusha,2014,other,washed-wet,1400.0,84.17
+colombia,huila,2014,other,washed-wet,1530.0,84.17
+kenya,kenya,2013,sl28,washed-wet,250.5,84.17
+brazil,"minas gerais, br",2012,mundo novo,natural-dry,1038.5,84.17
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,84.17
+el salvador,apaneca,2013,bourbon,natural-dry,1500.0,84.17
+colombia,huila,2012,caturra,washed-wet,1750.0,84.17
+guatemala,guatemala,2012,catuai,natural-dry,,84.17
+uganda,mt. rwenzori,2012,other,washed-wet,1600.0,84.17
+colombia,huila,2017,caturra,washed-wet,442.0,84.08
+taiwan,"nanxi dist., tainan city 臺南市楠西區",2016,typica,washed-wet,968.0,84.08
+guatemala,oriente,2016,bourbon,washed-wet,,84.08
+colombia,huila,2014,caturra,washed-wet,1775.0,84.08
+guatemala,"aldea xeucalvitz, ixil region, quiche department",2014,bourbon,washed-wet,1550.0,84.08
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,84.08
+mexico,santo domingo cacalotepec,2012,typica,washed-wet,1480.0,84.08
+ethiopia,"ethiopia, sidamo",2012,other,natural-dry,1800.0,84.08
+ethiopia,sidamo,2017,gesha,natural-dry,1800.0,84.0
+honduras,comayagua,2017,caturra,washed-wet,1500.0,84.0
+guatemala,huehuetenango,2015,caturra,washed-wet,1706.88,84.0
+colombia,huila,2014,other,washed-wet,1600.0,84.0
+guatemala,oriente,2014,bourbon,natural-dry,1219.2,84.0
+guatemala,oriente,2014,bourbon,other,1219.2,84.0
+colombia,santander,2014,caturra,natural-dry,1450.0,84.0
+colombia,huila,2014,caturra,washed-wet,1775.0,84.0
+ethiopia,sidamo,2013,other,natural-dry,1550.0,84.0
+brazil,south of minas,2013,yellow bourbon,natural-dry,1260.0,84.0
+colombia,cauca,2013,caturra,washed-wet,1700.0,84.0
+thailand,thailand,2012,other,washed-wet,,84.0
+kenya,central kenya,2012,sl28,washed-wet,1650.0,84.0
+uganda,kasese,2012,other,washed-wet,1700.0,84.0
+brazil,south of minas,2017,bourbon,natural-dry,890.0,83.92
+mexico,veracruz,2017,mundo novo,washed-wet,1300.0,83.92
+thailand,chiangrai,2015,catimor,natural-dry,1350.0,83.92
+brazil,south of minas,2016,bourbon,natural-dry,934.0,83.92
+taiwan,"leye, alishan township, chiayi county 嘉義阿里山樂野村",2015,typica,washed-wet,1200.0,83.92
+colombia,huila,2014,caturra,washed-wet,1775.0,83.92
+taiwan,台中和平區,2014,typica,washed-wet,950.0,83.92
+colombia,santander,2014,caturra,natural-dry,1550.0,83.92
+mexico,xicotepec de juarez,2012,typica,washed-wet,900.0,83.92
+mexico,la concordia,2012,typica,washed-wet,1500.0,83.92
+mexico,la yerbabuena,2012,typica,washed-wet,1400.0,83.92
+colombia,nariño,2017,caturra,washed-wet,2527.0,83.83
+colombia,huila,2016,caturra,,,83.83
+costa rica,tarrazu,2015,caturra,washed-wet,1850.0,83.83
+guatemala,antigua,2016,bourbon,washed-wet,1500.0,83.83
+taiwan,"dongshan dist., tainan city 臺南市東山區",2014,typica,washed-wet,525.0,83.83
+brazil,south of minas,2014,bourbon,semi-washed-semi-pulped,1200.0,83.83
+costa rica,central valley,2013,catuai,washed-wet,1300.0,83.83
+guatemala,oriente,2014,bourbon,washed-wet,1219.2,83.83
+brazil,south of minas,2013,yellow bourbon,natural-dry,1260.0,83.83
+colombia,huila,2013,caturra,washed-wet,1750.0,83.83
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,83.83
+mexico,petatlan,2012,bourbon,natural-dry,1218.0,83.83
+mexico,"la concordia, chiapas",2012,pacas,natural-dry,1300.0,83.83
+brazil,carmo de minas,2011,yellow bourbon,semi-washed-semi-pulped,1250.0,83.83
+kenya,nyeri,,sl28,washed-wet,1800.0,83.75
+brazil,south of minas,2017,bourbon,natural-dry,890.0,83.75
+colombia,huila,2017,caturra,washed-wet,442.0,83.75
+taiwan,"台南市東山區 (dongshan dist., tainan city)",2016,typica,natural-dry,750.0,83.75
+china,yunnan,2015,catimor,washed-wet,1650.0,83.75
+colombia,huila,2015,caturra,natural-dry,442.0,83.75
+uganda,west nile,2013,bourbon,natural-dry,1400.0,83.75
+united states (puerto rico),yauco region,2013,other,washed-wet,853.44,83.75
+colombia,huila,2014,caturra,washed-wet,1775.0,83.75
+colombia,huila,2014,other,washed-wet,1550.0,83.75
+colombia,huila,2013,caturra,washed-wet,1750.0,83.75
+colombia,huila,2013,caturra,washed-wet,1750.0,83.75
+united states (hawaii),kona,2013,hawaiian kona,natural-dry,,83.75
+mexico,"huazalingo, hidalgo",2012,caturra,natural-dry,700.0,83.75
+guatemala,quetzaltenango,2012,caturra,washed-wet,1300.0,83.75
+brazil,south of minas,2017,bourbon,natural-dry,890.0,83.67
+kenya,meru county,2017,sl28,washed-wet,1700.0,83.67
+honduras,comayagua,2016,caturra,washed-wet,1400.0,83.67
+nicaragua,jinotega,2016,caturra,washed-wet,1250.0,83.67
+brazil,south of minas,2016,bourbon,natural-dry,934.0,83.67
+taiwan,"leye, alishan township, chiayi county",2015,caturra,natural-dry,1200.0,83.67
+colombia,huila,2014,caturra,washed-wet,1625.0,83.67
+guatemala,huehuetenango,2014,bourbon,washed-wet,1356.6648,83.67
+colombia,huila supremo,2013,caturra,washed-wet,1750.0,83.67
+colombia,huila,2013,caturra,washed-wet,1900.0,83.67
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,83.67
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,83.67
+colombia,huila,2012,caturra,washed-wet,1750.0,83.67
+guatemala,oriente,2012,caturra,natural-dry,1450.0,83.67
+guatemala,oriente,2012,bourbon,washed-wet,1310.64,83.67
+mexico,xicotepec de juarez,2012,typica,washed-wet,1100.0,83.67
+indonesia,east java,2012,typica,washed-wet,1400.0,83.67
+guatemala,"sacatepequez, guatemala",2012,caturra,washed-wet,1524.0,83.67
+brazil,south of minas,2017,bourbon,natural-dry,890.0,83.58
+guatemala,huehuetenango,2016,caturra,washed-wet,1128.3696,83.58
+colombia,huila,2016,caturra,washed-wet,,83.58
+china,yunnan,2015,catimor,washed-wet,1100.0,83.58
+colombia,huila,2015,caturra,washed-wet,1775.0,83.58
+mexico,"chiapas, jaltenango",2014,caturra,washed-wet,1200.0,83.58
+ethiopia,yirgacheffe,2014,other,washed-wet,1850.0,83.58
+uganda,eastern,2013,sl14,washed-wet,1800.0,83.58
+colombia,cundinamarca,2014,caturra,natural-dry,1600.0,83.58
+colombia,santander,2014,caturra,washed-wet,1550.0,83.58
+colombia,santander,2014,caturra,washed-wet,1550.0,83.58
+taiwan,taichung xinshe 台中市新社區,2013,typica,other,1000.0,83.58
+colombia,huila,2012,caturra,washed-wet,1775.0,83.58
+mexico,xalapa,2012,typica,washed-wet,1000.0,83.58
+colombia,cundinamarca,2012,caturra,natural-dry,2136.0,83.58
+brazil,south of minas,2012,catuai,semi-washed-semi-pulped,1100.0,83.58
+colombia,cundinamarca,2016,caturra,washed-wet,1799.0,83.5
+costa rica,tarrazu,2015,caturra,washed-wet,1850.0,83.5
+colombia,pitalito,2016,caturra,natural-dry,1000.0,83.5
+guatemala,oriente,2016,bourbon,washed-wet,1219.2,83.5
+colombia,huila,2015,caturra,washed-wet,1775.0,83.5
+colombia,huila,2014,caturra,washed-wet,1850.0,83.5
+guatemala,atitlan,2013,caturra,washed-wet,1400.0,83.5
+colombia,cundinamarca,2014,caturra,washed-wet,1650.0,83.5
+honduras,comayagua,2014,caturra,natural-dry,1350.0,83.5
+colombia,huila,2013,caturra,washed-wet,1750.0,83.5
+colombia,huila,2013,caturra,washed-wet,1750.0,83.5
+mexico,xalapa,2012,bourbon,natural-dry,1170.0,83.5
+mexico,chilón,2012,typica,semi-washed-semi-pulped,940.0,83.5
+guatemala,atitlan,2012,caturra,washed-wet,1524.0,83.5
+colombia,huila,2012,caturra,washed-wet,1775.0,83.5
+guatemala,oriente,2012,bourbon,washed-wet,1402.08,83.5
+colombia,huila,2017,caturra,washed-wet,439.0,83.42
+guatemala,san marcos,2017,bourbon,washed-wet,1700.0,83.42
+colombia,huila,2016,caturra,washed-wet,442.0,83.42
+costa rica,tarrazu,2016,caturra,washed-wet,1850.0,83.42
+uganda,eastern,2015,sl14,washed-wet,1800.0,83.42
+thailand,thailand,2015,catimor,washed-wet,1200.0,83.42
+el salvador,apaneca,2016,bourbon,washed-wet,1330.0,83.42
+colombia,huila,2015,caturra,natural-dry,442.0,83.42
+brazil,vale da grama,2014,yellow bourbon,semi-washed-semi-pulped,,83.42
+"tanzania, united republic of",karatu northern,2014,bourbon,washed-wet,1600.0,83.42
+colombia,huila,2014,caturra,washed-wet,1813.0,83.42
+guatemala,oriente,2013,bourbon,natural-dry,1219.2,83.42
+guatemala,antigua,2014,caturra,washed-wet,1500.0,83.42
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,83.42
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,83.42
+colombia,cundinamarca,2012,caturra,washed-wet,1450.0,83.42
+colombia,huila,2016,caturra,washed-wet,1650.0,83.33
+colombia,guayata,2016,caturra,washed-wet,,83.33
+colombia,huila,2016,caturra,washed-wet,,83.33
+brazil,south of minas,2015,catuai,semi-washed-semi-pulped,1227.0,83.33
+mexico,chiapas,2014,caturra,washed-wet,1200.0,83.33
+colombia,santander,2015,caturra,washed-wet,1650.0,83.33
+"tanzania, united republic of",arusha,2014,other,semi-washed-semi-pulped,1700.0,83.33
+mexico,veracruz,2013,other,washed-wet,1100.0,83.33
+costa rica,san ramon,2014,caturra,washed-wet,1300.0,83.33
+united states (hawaii),kona,2014,hawaiian kona,natural-dry,,83.33
+costa rica,central valley,2013,catuai,washed-wet,1200.0,83.33
+haiti,"thiotte, haiti",2012,typica,washed-wet,1280.16,83.33
+colombia,pitalito,2013,caturra,natural-dry,1000.0,83.33
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,83.33
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,83.33
+burundi,kayanza,2012,bourbon,washed-wet,1880.0,83.33
+colombia,huila,2012,caturra,washed-wet,1750.0,83.33
+mexico,sierra madre occidental,2017,typica,washed-wet,1600.0,83.25
+costa rica,tarrazu,2016,catuai,pulped natural-honey,1900.0,83.25
+guatemala,nuevo oriente,2016,pacas,washed-wet,2100.0,83.25
+uganda,"sipi, mt elgon",2015,sl14,washed-wet,,83.25
+colombia,huila,2015,caturra,natural-dry,442.0,83.25
+mexico,cuarenteño,2015,typica,natural-dry,1261.0,83.25
+taiwan,natou county,2015,bourbon,washed-wet,1000.0,83.25
+taiwan,南投國姓,2014,typica,washed-wet,800.0,83.25
+colombia,eje cafetero,2014,caturra,natural-dry,1483.0,83.25
+guatemala,antigua,2014,caturra,washed-wet,1500.0,83.25
+colombia,huila,2013,caturra,washed-wet,1750.0,83.25
+mexico,chiapas,2013,bourbon,washed-wet,1300.0,83.25
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,83.25
+mexico,veracruz,2012,mundo novo,washed-wet,,83.25
+mexico,fortín de las flores,2012,caturra,washed-wet,1000.0,83.25
+guatemala,oriente,2012,bourbon,washed-wet,1310.64,83.25
+brazil,grama valley,2012,yellow bourbon,semi-washed-semi-pulped,1200.0,83.25
+colombia,la plata,2012,caturra,washed-wet,1775.0,83.25
+brazil,south of minas,2017,bourbon,natural-dry,890.0,83.17
+guatemala,oriente,2017,bourbon,washed-wet,1901.0,83.17
+vietnam,dala,2017,catimor,natural-dry,1550.0,83.17
+guatemala,antigua,2016,caturra,washed-wet,1500.0,83.17
+honduras,marcala,2016,catuai,washed-wet,1450.0,83.17
+china,yunnan,2015,catimor,washed-wet,1200.0,83.17
+china,dehong prefecture,2015,catimor,washed-wet,1600.0,83.17
+el salvador,apaneca,2016,bourbon,washed-wet,1350.0,83.17
+guatemala,antigua,2015,bourbon,washed-wet,1500.0,83.17
+guatemala,oriente,2015,bourbon,washed-wet,1650.0,83.17
+kenya,kenya,2014,sl28,washed-wet,250.5,83.17
+"tanzania, united republic of",mbinga,2014,other,washed-wet,1653.0,83.17
+colombia,huila,2014,caturra,washed-wet,1775.0,83.17
+uganda,eastern,2014,sl14,washed-wet,1800.0,83.17
+honduras,san marcos,2013,catuai,natural-dry,1450.0,83.17
+honduras,comayagua,2014,caturra,natural-dry,1350.0,83.17
+guatemala,san marcos,2014,catuai,washed-wet,1524.0,83.17
+united states (hawaii),kona,2013,hawaiian kona,natural-dry,,83.17
+"tanzania, united republic of",kilimanjaro,2014,bourbon,washed-wet,1800.0,83.17
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,83.17
+mexico,chiapas,2013,typica,washed-wet,1500.0,83.17
+mexico,"tlanchinol, hidalgo",2012,typica,washed-wet,532.0,83.17
+colombia,huila,2012,caturra,washed-wet,1775.0,83.17
+mexico,san isidro,2012,typica,washed-wet,700.0,83.17
+colombia,huila,2012,caturra,washed-wet,1750.0,83.17
+mexico,la concordia,2012,typica,washed-wet,1380.0,83.17
+brazil,south of minas,2012,mundo novo,natural-dry,1000.0,83.17
+brazil,mogiana,2012,mundo novo,natural-dry,950.0,83.17
+guatemala,oriente,2012,bourbon,washed-wet,1402.08,83.17
+brazil,south of minas,2011,mundo novo,semi-washed-semi-pulped,1000.0,83.17
+colombia,cundinamarca,2016,caturra,washed-wet,1799.0,83.08
+colombia,huila,2016,caturra,washed-wet,,83.08
+brazil,south of minas,2015,yellow bourbon,pulped natural-honey,905.0,83.08
+taiwan,"dongshan dist., tainan city 臺南市東山區",2015,typica,natural-dry,750.0,83.08
+brazil,chapadão de ferro (cerrado mineiro),2015,mundo novo,natural-dry,,83.08
+brazil,south of minas,2014,bourbon,washed-wet,1200.0,83.08
+costa rica,central valley,2014,catuai,washed-wet,1300.0,83.08
+united states (hawaii),kona,2013,hawaiian kona,natural-dry,,83.08
+taiwan,chiayi alishan 嘉義縣阿里山鄉,2013,typica,other,1300.0,83.08
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,83.08
+mexico,santa catarina juquila,2012,other,washed-wet,1400.0,83.08
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,83.08
+united states (hawaii),kona,2012,hawaiian kona,washed-wet,,83.08
+colombia,huila,,caturra,,1775.0,83.08
+brazil,south of minas,2017,bourbon,natural-dry,890.0,83.0
+brazil,south of minas,2016,bourbon,natural-dry,894.0,83.0
+brazil,south of minas,2016,bourbon,natural-dry,872.0,83.0
+uganda,"kasese, mt. rwenzori",2015,bourbon,washed-wet,1473.0,83.0
+uganda,"kasese, mt. rwenzori",2015,bourbon,natural-dry,1645.0,83.0
+vietnam,vietnam cau dat,2014,caturra,other,1550.0,83.0
+guatemala,nuevo oriente,2015,catuai,washed-wet,1550.0,83.0
+guatemala,"el tumbador, san marcos",2015,catuai,washed-wet,1371.6,83.0
+guatemala,antigua,2015,bourbon,washed-wet,1500.0,83.0
+brazil,high mogiana,2014,catuai,natural-dry,1000.0,83.0
+taiwan,嘉義阿里山,2014,typica,washed-wet,1200.0,83.0
+uganda,kapchorwa,2013,sl14,washed-wet,1800.0,83.0
+united states (puerto rico),yauco region,2013,other,washed-wet,853.44,83.0
+guatemala,antigua,2014,bourbon,washed-wet,1500.0,83.0
+costa rica,central valley,2013,catuai,washed-wet,1200.0,83.0
+brazil,sul de minas,2013,yellow bourbon,semi-washed-semi-pulped,1250.0,83.0
+colombia,huila,2013,caturra,washed-wet,1775.0,83.0
+colombia,huila,2013,caturra,washed-wet,1750.0,83.0
+colombia,pitalito,2013,caturra,natural-dry,1000.0,83.0
+colombia,pitalito,2013,caturra,natural-dry,1000.0,83.0
+colombia,huila,2012,caturra,washed-wet,1775.0,83.0
+mexico,coatepec,2012,typica,washed-wet,750.0,83.0
+mexico,atoyac de alvarez,2012,typica,semi-washed-semi-pulped,1200.0,83.0
+mexico,coatepec,2012,bourbon,washed-wet,1200.0,83.0
+colombia,huila,2012,caturra,washed-wet,1625.0,83.0
+colombia,huila,2012,caturra,washed-wet,1750.0,83.0
+guatemala,"la reforma, san marcos",2012,bourbon,washed-wet,1371.6,83.0
+colombia,la plata,2011,caturra,washed-wet,1775.0,83.0
+nicaragua,matagalpa,2009,caturra,,,83.0
+brazil,south of minas,2017,bourbon,natural-dry,890.0,82.92
+el salvador,apaneca,2017,bourbon,washed-wet,1350.0,82.92
+colombia,guayata,2017,caturra,washed-wet,1500.0,82.92
+taiwan,"dongshan dist., tainan city 臺南市東山區",2016,caturra,natural-dry,350.0,82.92
+taiwan,台東太麻里,2014,typica,natural-dry,775.0,82.92
+philippines,"bukidnon, mindanao, philppines",2015,other,washed-wet,1200.0,82.92
+philippines,asia pacific,2014,other,washed-wet,1600.0,82.92
+mexico,cuarenteño,2015,typica,natural-dry,1059.0,82.92
+mexico,chiapas,2015,bourbon,washed-wet,1300.0,82.92
+uganda,eastern,2013,sl14,washed-wet,1650.0,82.92
+uganda,west nile,2013,sl14,washed-wet,1400.0,82.92
+guatemala,antigua,2014,bourbon,washed-wet,1500.0,82.92
+guatemala,antigua,2014,caturra,natural-dry,1500.0,82.92
+colombia,huila,2013,caturra,washed-wet,1900.0,82.92
+colombia,huila,2013,caturra,natural-dry,1750.0,82.92
+guatemala,huehuetenango,2013,bourbon,washed-wet,1706.88,82.92
+colombia,antioquia,2013,other,washed-wet,1450.0,82.92
+mexico,petatlan,2012,typica,natural-dry,1248.0,82.92
+vietnam,don duong,2012,other,natural-dry,1040.0,82.92
+mexico,la cumbre,2012,typica,washed-wet,1400.0,82.92
+united states (hawaii),kona,2012,hawaiian kona,washed-wet,,82.92
+kenya,nyeri,2017,sl28,washed-wet,1754.0,82.83
+guatemala,san marcos,2017,bourbon,washed-wet,1700.0,82.83
+brazil,south of minas,2015,yellow bourbon,pulped natural-honey,905.0,82.83
+el salvador,"el balsamo, quezaltepec",2016,pacas,washed-wet,1250.0,82.83
+rwanda,gicumbi,2015,bourbon,washed-wet,1900.0,82.83
+vietnam,vietnam tutra,2014,other,other,1040.0,82.83
+guatemala,oriente,2015,bourbon,washed-wet,1219.2,82.83
+brazil,cerrado,2015,catuai,natural-dry,900.0,82.83
+colombia,huila,2014,other,washed-wet,1600.0,82.83
+united states,berastagi,2014,other,other,1200.0,82.83
+guatemala,antigua,2014,bourbon,washed-wet,1500.0,82.83
+colombia,santander,2013,typica,natural-dry,1800.0,82.83
+colombia,huila,2013,caturra,washed-wet,1775.0,82.83
+mexico,la concordia,2012,caturra,washed-wet,1550.0,82.83
+mexico,veracruz,2012,bourbon,washed-wet,1250.0,82.83
+guatemala,oriente,2012,bourbon,washed-wet,1310.64,82.83
+mexico,la concordia,2012,typica,washed-wet,1380.0,82.83
+guatemala,santa rosa,,caturra,washed-wet,1100.0,82.75
+guatemala,santa rosa,2017,caturra,washed-wet,1800.0,82.75
+guatemala,san marcos,2017,bourbon,washed-wet,1700.0,82.75
+guatemala,santa rosa,2017,bourbon,washed-wet,1219.2,82.75
+guatemala,oriente,2017,bourbon,washed-wet,1219.2,82.75
+taiwan,"台南市東山區( dongshan dist., tainan city)",2016,yellow bourbon,natural-dry,650.0,82.75
+el salvador,cacahuatique,2017,bourbon,washed-wet,1250.0,82.75
+costa rica,tarrazu,2016,caturra,washed-wet,1850.0,82.75
+honduras,comayagua,2017,caturra,natural-dry,1400.0,82.75
+brazil,south of minas,2015,yellow bourbon,pulped natural-honey,905.0,82.75
+china,yunnan,2015,catimor,natural-dry,1100.0,82.75
+china,menglian,2015,catimor,washed-wet,1500.0,82.75
+colombia,huila,2014,caturra,washed-wet,1775.0,82.75
+malawi,mzuzu,2014,gesha,washed-wet,1442.0,82.75
+guatemala,jalapa,2014,pacas,washed-wet,1524.0,82.75
+united states (hawaii),kona,2013,hawaiian kona,natural-dry,,82.75
+united states (hawaii),kona,2013,hawaiian kona,natural-dry,,82.75
+colombia,antioquia,2013,caturra,washed-wet,1300.0,82.75
+mexico,chiapas,2013,typica,washed-wet,1550.0,82.75
+mexico,veracruz,2012,typica,washed-wet,1200.0,82.75
+mexico,atoyac de alvarez,2012,typica,natural-dry,1200.0,82.75
+colombia,south huila,2012,caturra,washed-wet,1625.0,82.75
+colombia,huila,2012,caturra,washed-wet,1775.0,82.75
+united states (hawaii),kona,2012,hawaiian kona,washed-wet,,82.75
+panama,boquete,2012,catuai,washed-wet,1100.0,82.75
+brazil,south of minas,2017,bourbon,natural-dry,890.0,82.67
+brazil,south of minas,2016,bourbon,natural-dry,934.0,82.67
+laos,"paksong,laos",2015,catimor,washed-wet,1300.0,82.67
+el salvador,"el balsamo, quezaltepec",2016,pacas,washed-wet,1200.0,82.67
+brazil,monte carmelo,2014,catuai,natural-dry,,82.67
+"tanzania, united republic of",karatu arusha,2014,other,washed-wet,1700.0,82.67
+"tanzania, united republic of",mbinga,2014,bourbon,washed-wet,1550.0,82.67
+taiwan,嘉義阿里山,2014,typica,washed-wet,1200.0,82.67
+mexico,la yerba,2014,typica,natural-dry,1296.0,82.67
+uganda,mt elgon,2013,sl14,washed-wet,1650.0,82.67
+taiwan,chiayi alishan 嘉義縣阿里山鄉,2013,typica,washed-wet,1240.0,82.67
+thailand,phahi,2013,caturra,washed-wet,1500.0,82.67
+colombia,huila,2012,caturra,washed-wet,1800.0,82.67
+el salvador,,2012,other,washed-wet,,82.67
+guatemala,antigua,2012,caturra,washed-wet,1500.0,82.67
+thailand,thailand,2012,other,washed-wet,,82.67
+mexico,,2012,other,washed-wet,1100.0,82.67
+mexico,mahuixtlan,2012,typica,washed-wet,950.0,82.67
+guatemala,oriente,2017,bourbon,washed-wet,1219.2,82.58
+taiwan,國姓鄉 guoshing township,2016,typica,pulped natural-honey,1050.0,82.58
+indonesia,aceh,2015,typica,semi-washed-semi-pulped,1250.0,82.58
+thailand,chiangrai,2014,caturra,washed-wet,1450.0,82.58
+"tanzania, united republic of",ikand village,2014,other,washed-wet,1317.0,82.58
+uganda,eastern,2013,sl14,natural-dry,1650.0,82.58
+costa rica,central valley,2013,catuai,washed-wet,1300.0,82.58
+colombia,huila,2013,caturra,washed-wet,1750.0,82.58
+colombia,huila,2012,caturra,washed-wet,1750.0,82.58
+colombia,huila,2013,caturra,washed-wet,1750.0,82.58
+mexico,oaxaca,2012,typica,washed-wet,1250.0,82.58
+mexico,colima,2012,typica,washed-wet,1150.0,82.58
+colombia,huila,2012,caturra,washed-wet,1775.0,82.58
+brazil,south of minas,2011,mundo novo,,975.0,82.58
+brazil,south of minas,2017,bourbon,natural-dry,890.0,82.5
+indonesia,bali,2017,other,washed-wet,1250.0,82.5
+honduras,comayagua,2017,caturra,washed-wet,1400.0,82.5
+guatemala,oriente,2016,bourbon,washed-wet,1219.2,82.5
+thailand,chiangrai,2014,caturra,washed-wet,1450.0,82.5
+"tanzania, united republic of",karatu arusha,2014,other,washed-wet,1600.0,82.5
+"tanzania, united republic of",moshi,2014,other,washed-wet,,82.5
+mexico,chiapas,2013,other,washed-wet,1600.0,82.5
+brazil,south of minas,2013,yellow bourbon,semi-washed-semi-pulped,1260.0,82.5
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,82.5
+colombia,huila,2013,caturra,washed-wet,1750.0,82.5
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,82.5
+mexico,san bartolo tutotepec,2012,typica,washed-wet,1679.0,82.5
+mexico,zapotitlan de mendez,2012,typica,washed-wet,1100.0,82.5
+mexico,la concordia,2012,typica,semi-washed-semi-pulped,1650.0,82.5
+guatemala,oriente,2012,caturra,natural-dry,,82.5
+brazil,carmo de minas,2012,bourbon,semi-washed-semi-pulped,1250.0,82.5
+colombia,huila,2012,caturra,washed-wet,1775.0,82.5
+united states (hawaii),kona,2012,hawaiian kona,washed-wet,,82.5
+honduras,"comayagua, honduras",2017,other,washed-wet,1500.0,82.42
+guatemala,san marcos,2017,bourbon,washed-wet,1700.0,82.42
+guatemala,san marcos,2016,bourbon,washed-wet,1700.0,82.42
+guatemala,santa rosa,2017,caturra,washed-wet,,82.42
+colombia,guayata,2016,caturra,washed-wet,1600.0,82.42
+china,yunnan,2015,catimor,washed-wet,1600.0,82.42
+guatemala,atitlan,2013,caturra,washed-wet,1400.0,82.42
+mexico,la yerba,2014,typica,washed-wet,1296.0,82.42
+brazil,south of minas,2012,catuai,semi-washed-semi-pulped,1000.0,82.42
+brazil,south of minas,2013,yellow bourbon,natural-dry,1260.0,82.42
+mexico,veracruz,2013,bourbon,washed-wet,1170.0,82.42
+colombia,huila,2013,caturra,washed-wet,1775.0,82.42
+mexico,chiapas,2013,typica,washed-wet,1560.0,82.42
+mexico,san pedro cotzilnam,2012,typica,semi-washed-semi-pulped,1400.0,82.42
+mexico,coatepec,2012,typica,washed-wet,1300.0,82.42
+mexico,xalapa,2012,caturra,washed-wet,1170.0,82.42
+mexico,zihuatanejo de azueta,2012,typica,washed-wet,1300.0,82.42
+mexico,xicotepec de juarez,2012,caturra,washed-wet,1150.0,82.42
+mexico,progreso santa rosa teocelo,2012,bourbon,washed-wet,1250.0,82.42
+mexico,fln mirador,2012,typica,washed-wet,1450.0,82.42
+colombia,huila,2012,caturra,natural-dry,442.0,82.42
+colombia,huila,2011,caturra,washed-wet,1750.0,82.42
+honduras,comayagua,2017,caturra,washed-wet,1396.0,82.33
+brazil,cerrado,2016,catuai,natural-dry,982.0,82.33
+brazil,south of minas,2016,bourbon,natural-dry,934.0,82.33
+costa rica,tarrazu,2015,caturra,washed-wet,1850.0,82.33
+costa rica,tarrazu,2015,catuai,washed-wet,1550.0,82.33
+china,xishuangbanna prefecture,2015,catimor,pulped natural-honey,1580.0,82.33
+brazil,south of minas,2015,bourbon,natural-dry,1268.0,82.33
+brazil,chapadão de ferro (cerrado mineiro),2015,mundo novo,natural-dry,,82.33
+guatemala,huehuetenango,2015,bourbon,washed-wet,1676.4,82.33
+malawi,mzuzu,2014,gesha,washed-wet,1450.0,82.33
+brazil,south of minas,2014,bourbon,natural-dry,1100.0,82.33
+guatemala,jalapa,2014,pacas,washed-wet,1524.0,82.33
+colombia,antioquia,2013,caturra,washed-wet,1300.0,82.33
+taiwan,changhua baguashan 彰化市八卦山,2013,typica,semi-washed-semi-pulped,200.0,82.33
+taiwan,taichung xinshe 台中市新社區,2013,typica,washed-wet,600.0,82.33
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,82.33
+colombia,huila,2013,caturra,washed-wet,1750.0,82.33
+mexico,"la concordia, chiapas",2013,typica,washed-wet,1300.0,82.33
+guatemala,jalapa,2012,bourbon,washed-wet,1752.6,82.33
+mexico,"jaltocan, hidalgo",2012,typica,natural-dry,441.0,82.33
+mexico,veracruz,2012,bourbon,washed-wet,1170.0,82.33
+guatemala,oriente,2012,bourbon,washed-wet,1310.64,82.33
+brazil,grama valley,2012,mundo novo,natural-dry,1100.0,82.33
+mexico,santa catarina juquila,2012,typica,washed-wet,1300.0,82.33
+brazil,south of minas,2012,mundo novo,washed-wet,950.0,82.33
+colombia,huila,2012,caturra,natural-dry,442.0,82.33
+brazil,brazil matas de minas,,catuai,washed-wet,1100.0,82.25
+guatemala,nuevo oriente,2016,pacas,washed-wet,1450.0,82.25
+el salvador,apaneca,2014,bourbon,washed-wet,1500.0,82.25
+honduras,marcala,2015,catuai,washed-wet,1350.0,82.25
+malawi,mzuzu,2014,gesha,washed-wet,1180.0,82.25
+brazil,south of minas,2014,bourbon,natural-dry,1100.0,82.25
+taiwan,nantou,2013,typica,washed-wet,650.0,82.25
+mexico,veracruz,2013,mundo novo,washed-wet,1338.0,82.25
+united states (hawaii),kona,2013,hawaiian kona,natural-dry,,82.25
+mexico,"calnali, hidalgo",2012,bourbon,washed-wet,533.0,82.25
+guatemala,antigua,2012,bourbon,washed-wet,1390.8024,82.25
+mexico,veracruz,2012,bourbon,washed-wet,1170.0,82.25
+mexico,juquila,2012,typica,washed-wet,1250.0,82.25
+el salvador,,2012,other,washed-wet,,82.25
+mexico,veracruz,2012,typica,washed-wet,1100.0,82.25
+mexico,canoas,2012,typica,washed-wet,900.0,82.25
+colombia,huila,2012,caturra,washed-wet,1750.0,82.25
+colombia,huila,2012,caturra,washed-wet,1775.0,82.25
+brazil,south of minas,2016,bourbon,natural-dry,934.0,82.17
+honduras,comayagua,2015,caturra,washed-wet,1500.0,82.17
+"tanzania, united republic of",ruvuma,2015,bourbon,washed-wet,1650.0,82.17
+"tanzania, united republic of",northern,2015,other,washed-wet,1600.0,82.17
+honduras,marcala,2015,catuai,washed-wet,1350.0,82.17
+guatemala,atitlan,2014,bourbon,washed-wet,1500.0,82.17
+brazil,cerrado,2014,mundo novo,natural-dry,,82.17
+"tanzania, united republic of","ilomba vilage, mbozi",2014,other,washed-wet,1700.0,82.17
+mexico,veracruz,2013,other,washed-wet,1100.0,82.17
+mexico,"la concordia, chiapas",2013,other,washed-wet,1400.0,82.17
+taiwan,yunlin 雲林縣石壁,2013,typica,other,1200.0,82.17
+taiwan,"dongshan dist., tainan city 臺南市東山區",2012,typica,washed-wet,800.0,82.17
+colombia,huila,2013,caturra,washed-wet,1750.0,82.17
+mexico,san bartolo tutotepec,2012,typica,washed-wet,1144.0,82.17
+guatemala,oriente,2012,caturra,washed-wet,1350.0,82.17
+mexico,altotonga,2012,typica,washed-wet,1000.0,82.17
+mexico,colima,2012,typica,washed-wet,1200.0,82.17
+indonesia,aceh gayo,2017,bourbon,washed-wet,1300.0,82.08
+colombia,huila,2016,caturra,washed-wet,,82.08
+brazil,south of minas,2016,bourbon,natural-dry,894.0,82.08
+costa rica,tres rios,2015,caturra,washed-wet,1300.0,82.08
+"tanzania, united republic of",kilimanjaro,2014,bourbon,washed-wet,1500.0,82.08
+"tanzania, united republic of",ngorogoro,2014,other,washed-wet,1600.0,82.08
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,82.08
+mexico,coatepec,2012,typica,washed-wet,1300.0,82.08
+mexico,tapachula,2012,typica,washed-wet,1800.0,82.08
+mexico,coatepec,2012,typica,washed-wet,1250.0,82.08
+vietnam,don duong,2012,other,natural-dry,1040.0,82.08
+mexico,veracruz,2012,typica,washed-wet,1250.0,82.08
+united states (hawaii),kona,2012,hawaiian kona,washed-wet,,82.08
+honduras,el paraíso,2017,caturra,washed-wet,1600.0,82.0
+honduras,guinope el paraíso,2016,caturra,natural-dry,1600.0,82.0
+brazil,south of minas,2016,bourbon,natural-dry,944.0,82.0
+"tanzania, united republic of",kilimanjaro,2015,other,washed-wet,1650.0,82.0
+laos,lao p.d.r.,2015,other,washed-wet,1250.0,82.0
+"tanzania, united republic of",meru,2014,other,washed-wet,1350.0,82.0
+malawi,mzuzu,2014,gesha,washed-wet,2500.0,82.0
+taiwan,"dongshan dist., tainan city 臺南市東山區",2013,typica,washed-wet,600.0,82.0
+costa rica,central valley,2013,catuai,washed-wet,1300.0,82.0
+honduras,occidental,2014,caturra,washed-wet,1400.0,82.0
+colombia,huila,2013,caturra,washed-wet,1900.0,82.0
+taiwan,"dongshan dist., tainan city 臺南市東山區",2012,typica,washed-wet,650.0,82.0
+brazil,"minas gerais, br",2012,mundo novo,natural-dry,1038.5,82.0
+mexico,coscomatepec,2012,typica,washed-wet,940.0,82.0
+brazil,south of minas,2012,mundo novo,natural-dry,1000.0,82.0
+brazil,cerrado,2012,catuai,semi-washed-semi-pulped,1050.0,82.0
+guatemala,san marcos,2012,bourbon,natural-dry,,82.0
+brazil,south of minas,2012,mundo novo,semi-washed-semi-pulped,950.0,82.0
+guatemala,oriente,2012,bourbon,washed-wet,1402.08,82.0
+colombia,huila,,caturra,,1775.0,82.0
+guatemala,oriente,2017,bourbon,washed-wet,1901.0,81.92
+guatemala,santa rosa,2017,bourbon,washed-wet,1219.2,81.92
+honduras,comayagua,2017,caturra,washed-wet,1400.0,81.92
+brazil,monte carmelo,2016,catuai,natural-dry,1020.0,81.92
+el salvador,"el balsamo, quezaltepec",2014,bourbon,washed-wet,1250.0,81.92
+guatemala,nuevo oriente,2015,catuai,washed-wet,1550.0,81.92
+"tanzania, united republic of",mbeya,2014,other,washed-wet,1877.0,81.92
+zambia,mubuyu estate,2014,sl28,washed-wet,1250.0,81.92
+taiwan,taichung xinshe 台中市新社區,2012,typica,other,1000.0,81.92
+mexico,chiapas,2013,bourbon,washed-wet,1300.0,81.92
+mexico,"chapulhuacan, hidalgo",2012,typica,semi-washed-semi-pulped,981.0,81.92
+mexico,"huazalingo, hidalgo",2012,mundo novo,washed-wet,690.0,81.92
+mexico,veracruz,2012,other,washed-wet,1650.0,81.92
+mexico,fortín de las flores,2012,bourbon,washed-wet,1000.0,81.92
+brazil,grama valley,2012,mundo novo,natural-dry,1100.0,81.92
+costa rica,tarrazu,2016,catuai,pulped natural-honey,1900.0,81.83
+brazil,monte carmelo,2016,mundo novo,natural-dry,973.0,81.83
+indonesia,bali,2015,other,other,1250.0,81.83
+guatemala,norte,2015,bourbon,washed-wet,3280.0,81.83
+myanmar,ywar ngan,2015,catuai,washed-wet,4001.0,81.83
+mexico,chiapas,2015,catuai,washed-wet,1425.0,81.83
+honduras,marcala,2015,catuai,washed-wet,1400.0,81.83
+costa rica,tres rios,2015,caturra,washed-wet,1300.0,81.83
+taiwan,"dongshan dist., tainan city 臺南市東山區",2014,typica,washed-wet,700.0,81.83
+indonesia,lington nihuta,2014,typica,other,1300.0,81.83
+malawi,kakoma,2014,gesha,washed-wet,1556.0,81.83
+brazil,south of minas,2014,bourbon,natural-dry,1100.0,81.83
+honduras,comayagua,2014,caturra,natural-dry,1350.0,81.83
+mexico,"siltepec el triunfo, chiapas, mexico",2014,typica,washed-wet,1550.0,81.83
+colombia,huila,2013,caturra,washed-wet,1775.0,81.83
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,81.83
+brazil,sul de minas,2012,bourbon,semi-washed-semi-pulped,1250.0,81.83
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,81.83
+mexico,veracruz,2012,bourbon,washed-wet,1500.0,81.83
+mexico,coatepec,2012,typica,semi-washed-semi-pulped,1250.0,81.83
+brazil,cerrado,2011,mundo novo,,925.0,81.83
+guatemala,san marcos,2017,bourbon,washed-wet,1700.0,81.75
+vietnam,vietnam,2014,caturra,washed-wet,1040.0,81.75
+"tanzania, united republic of",ngorogoro,2014,other,washed-wet,1600.0,81.75
+mexico,"tenango de doria, hidalgo",2012,bourbon,washed-wet,774.0,81.75
+mexico,tepictla,2012,mundo novo,washed-wet,1250.0,81.75
+mexico,oaxaca,2012,typica,washed-wet,1100.0,81.75
+mexico,la concordia,2012,caturra,washed-wet,1550.0,81.75
+mexico,la concordia,2012,typica,washed-wet,1650.0,81.75
+colombia,huila,2011,caturra,washed-wet,1750.0,81.75
+brazil,south of minas,2017,bourbon,natural-dry,890.0,81.67
+guatemala,san marcos,2017,bourbon,washed-wet,1700.0,81.67
+guatemala,santa rosa,2017,bourbon,washed-wet,1219.2,81.67
+honduras,marcala,2016,catuai,washed-wet,1450.0,81.67
+"tanzania, united republic of",mbinga,2014,other,washed-wet,1500.0,81.67
+"tanzania, united republic of","ilomba vilage, mbozi",2013,other,washed-wet,1700.0,81.67
+brazil,south of minas,2014,bourbon,washed-wet,1260.0,81.67
+honduras,comayagua,2014,caturra,natural-dry,1400.0,81.67
+costa rica,tarrazu,2013,caturra,washed-wet,1850.0,81.67
+taiwan,nantou,2013,typica,washed-wet,750.0,81.67
+mexico,"la concordia, chiapas",2013,typica,washed-wet,1400.0,81.67
+guatemala,jalapa,2012,bourbon,washed-wet,1752.6,81.67
+mexico,tuxtla gutierrez,2012,typica,washed-wet,1650.0,81.67
+mexico,yajalon,2012,bourbon,washed-wet,1400.0,81.67
+mexico,veracruz,2012,bourbon,washed-wet,1200.0,81.67
+mexico,"la concordia, chiapas",2012,bourbon,washed-wet,1400.0,81.67
+mexico,"sacún palma, municipio de chilón, chiapas",2012,caturra,semi-washed-semi-pulped,940.0,81.67
+united states (hawaii),kona,2012,hawaiian kona,washed-wet,,81.67
+honduras,western region,2018,catimor,washed-wet,1200.0,81.58
+taiwan,natou county,2016,typica,washed-wet,800.0,81.58
+"tanzania, united republic of","oldeani , mongola",2014,other,washed-wet,1800.0,81.58
+malawi,mzuzu,2014,gesha,washed-wet,1100.0,81.58
+taiwan,natou county,2014,typica,semi-washed-semi-pulped,850.0,81.58
+brazil,south of minas,2013,yellow bourbon,washed-wet,1260.0,81.58
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,81.58
+mexico,"la concordia, chiapas",2013,typica,washed-wet,1400.0,81.58
+mexico,la concordia,2012,typica,natural-dry,1650.0,81.58
+guatemala,santa rosa,2017,bourbon,washed-wet,1219.2,81.5
+nicaragua,jalapa,2017,caturra,other,1100.0,81.5
+honduras,comayagua,2017,caturra,washed-wet,1400.0,81.5
+guatemala,santa rosa,2017,bourbon,,,81.5
+myanmar,ywar ngan township,2015,catuai,washed-wet,1219.2,81.5
+costa rica,occidental,2014,caturra,washed-wet,1200.0,81.5
+malawi,mzuzu,2014,gesha,washed-wet,1599.0,81.5
+guatemala,oriente,2014,other,washed-wet,1219.2,81.5
+taiwan,natou county,2014,typica,washed-wet,900.0,81.5
+brazil,sul de minas,2014,yellow bourbon,semi-washed-semi-pulped,1200.0,81.5
+taiwan,taichung xinshe 台中市新社區,2013,typica,other,600.0,81.5
+mexico,"la concordia, chiapas",2013,typica,washed-wet,1150.0,81.5
+mexico,amatenango de la frontera,2012,typica,washed-wet,1600.0,81.5
+mexico,temaxcalapa,2012,catuai,washed-wet,1100.0,81.5
+mexico,manzanillo,2012,typica,semi-washed-semi-pulped,1000.0,81.5
+mexico,tapachula,2012,bourbon,washed-wet,1250.0,81.5
+mexico,atoyac de alvarez,2012,typica,natural-dry,1100.0,81.5
+indonesia,ijen,2012,other,washed-wet,1400.0,81.5
+guatemala,oriente,2012,bourbon,washed-wet,,81.5
+mexico,veracruz,2017,mundo novo,washed-wet,1100.0,81.42
+guatemala,san marcos,2016,catuai,washed-wet,1371.6,81.42
+brazil,cerrado,2015,catuai,natural-dry,1100.0,81.42
+honduras,marcala,2015,catuai,washed-wet,1400.0,81.42
+malawi,mzuzu,2014,gesha,washed-wet,1422.0,81.42
+brazil,south of minas,2014,bourbon,natural-dry,1100.0,81.42
+guatemala,"san lucas toliman, solola",2014,bourbon,washed-wet,1550.0,81.42
+mexico,siltepec el triunfo,2014,typica,washed-wet,1550.0,81.42
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,81.42
+mexico,"huazalingo, hidalgo",2012,caturra,washed-wet,763.0,81.42
+mexico,"coatepec, coatepec",2012,typica,washed-wet,1100.0,81.42
+colombia,huila,2011,caturra,natural-dry,1750.0,81.42
+colombia,huila,2016,caturra,washed-wet,,81.33
+honduras,comayagua,2016,caturra,washed-wet,1500.0,81.33
+brazil,cerrado,2015,catuai,natural-dry,1100.0,81.33
+honduras,marcala,2015,catuai,washed-wet,1350.0,81.33
+brazil,mantiqueira de minas,2014,yellow bourbon,other,1200.0,81.33
+philippines,"davao city, region 11",2014,other,washed-wet,1400.0,81.33
+malawi,mzuzu,2014,gesha,washed-wet,1200.0,81.33
+honduras,san marcos,2014,catuai,washed-wet,1450.0,81.33
+mexico,tapachula,2012,typica,washed-wet,1800.0,81.33
+mexico,veracruz,2012,typica,washed-wet,1000.0,81.33
+brazil,matas de minas        ,,catuai,natural-dry,1100.0,81.33
+taiwan,"dongshan dist., tainan city 台南市東山區",2015,typica,natural-dry,680.0,81.25
+nicaragua,jinotega,2015,catuai,washed-wet,1100.0,81.25
+honduras,marcala,2015,catuai,washed-wet,1400.0,81.25
+"tanzania, united republic of",karatu ngorogoro,2014,other,washed-wet,1700.0,81.25
+taiwan,nantou,2013,typica,semi-washed-semi-pulped,650.0,81.25
+guatemala,"sacatepequez, guatemala",2013,caturra,washed-wet,1524.0,81.25
+mexico,motozintla,2012,typica,washed-wet,1500.0,81.25
+"tanzania, united republic of","ruvuma, mbinga",2015,bourbon,washed-wet,1050.0,81.17
+mexico,"chiapas, jaltenango",2015,caturra,washed-wet,1200.0,81.17
+costa rica,tres rios,2015,caturra,washed-wet,1300.0,81.17
+honduras,central region,2015,catuai,natural-dry,1450.0,81.17
+thailand,chiangrai,2014,caturra,washed-wet,1450.0,81.17
+philippines,corillera administrative,2014,typica,natural-dry,1200.0,81.17
+"tanzania, united republic of",mbinga,2014,bourbon,washed-wet,1550.0,81.17
+malawi,southern- zomba,2014,caturra,washed-wet,995.0,81.17
+costa rica,central valley,2014,catuai,washed-wet,1300.0,81.17
+brazil,monte carmelo,2013,catuai,natural-dry,,81.17
+mexico,tapachula,2012,typica,natural-dry,1800.0,81.17
+guatemala,oriente,2012,caturra,washed-wet,1450.0,81.17
+brazil,south of minas,2012,mundo novo,natural-dry,1000.0,81.17
+brazil,alta paulista (sao paulo),2016,mundo novo,natural-dry,695.0,81.08
+nicaragua,jinotega,2015,other,washed-wet,1100.0,81.08
+"tanzania, united republic of","iwala village, mbeya rural",2014,other,washed-wet,1456.0,81.08
+costa rica,naranjo,2014,caturra,washed-wet,1500.0,81.08
+united states (puerto rico),yauco region,2013,other,washed-wet,853.44,81.08
+mexico,san fernando,2012,typica,washed-wet,1650.0,81.08
+mexico,santo reyes nopala,2012,typica,washed-wet,1300.0,81.08
+mexico,santa maria sitepec,2012,typica,washed-wet,1642.0,81.08
+mexico,talpa de allende,2012,typica,washed-wet,1200.0,81.08
+united states (hawaii),,2012,hawaiian kona,washed-wet,,81.08
+brazil,grama valley,,bourbon,pulped natural-honey,,81.0
+el salvador,apaneca,2017,bourbon,washed-wet,1450.0,81.0
+brazil,grama valley,2016,yellow bourbon,pulped natural-honey,,81.0
+guatemala,norte,2016,bourbon,washed-wet,3280.0,81.0
+colombia,guayata,2016,caturra,washed-wet,1600.0,81.0
+guatemala,oriente,2015,bourbon,washed-wet,1219.2,81.0
+taiwan,"dongshan dist., tainan city 臺南市東山區",2015,typica,washed-wet,758.0,81.0
+honduras,san marcos,2014,caturra,natural-dry,1350.0,81.0
+brazil,cerrado,2014,mundo novo,natural-dry,,81.0
+"tanzania, united republic of",arusha,2014,other,washed-wet,1525.0,81.0
+uganda,eastern,2013,sl14,natural-dry,1700.0,81.0
+taiwan,nantou,2013,typica,semi-washed-semi-pulped,1100.0,81.0
+mexico,"motozintla, chiapas",2012,other,washed-wet,950.0,81.0
+mexico,adolfo lopez mateos,2012,typica,washed-wet,1100.0,81.0
+taiwan,taiwan,2017,other,washed-wet,200.0,80.92
+guatemala,oriente,2017,bourbon,washed-wet,1901.0,80.92
+kenya,kiambu,2017,sl28,washed-wet,1600.0,80.92
+mexico,veracruz,2017,bourbon,washed-wet,1100.0,80.92
+myanmar,pyinoolwin,2015,other,other,1066.8,80.92
+united states (hawaii),kona,2014,hawaiian kona,natural-dry,,80.92
+"tanzania, united republic of","manyara, karatu",2014,other,washed-wet,1700.0,80.92
+brazil,mantiqueira de minas,2014,yellow bourbon,natural-dry,1200.0,80.92
+taiwan,台中新社,2014,typica,washed-wet,550.0,80.92
+brazil,south of minas,2014,bourbon,natural-dry,1100.0,80.92
+nicaragua,matagalpa,2013,caturra,washed-wet,1050.0,80.92
+guatemala,jalapa,2014,pacas,washed-wet,1524.0,80.92
+taiwan,taichung taiping 台中市太平區,2013,typica,washed-wet,900.0,80.92
+taiwan,nantou,2013,typica,other,688.0,80.92
+taiwan,new taipei zhonghe 新北市中和區,2013,typica,washed-wet,300.0,80.92
+mexico,ixhuatlan del cafe,2012,typica,washed-wet,1186.0,80.92
+laos,"paksong,laos",2016,catimor,washed-wet,1300.0,80.83
+guatemala,orient,2013,caturra,washed-wet,1200.0,80.83
+mexico,motozintla,2012,catuai,semi-washed-semi-pulped,1210.0,80.83
+mexico,oaxaca,2012,typica,washed-wet,1100.0,80.83
+united states (hawaii),kona,2012,hawaiian kona,washed-wet,,80.83
+myanmar,ywar ngan,2015,catuai,washed-wet,3825.0,80.75
+guatemala,huehuetenango,2015,caturra,washed-wet,1706.88,80.75
+honduras,"siguatepeque, comayagua",2015,caturra,natural-dry,1450.0,80.75
+panama,boquete,2014,caturra,other,1680.0,80.75
+honduras,marcala,2015,catuai,washed-wet,1350.0,80.75
+honduras,central region,2015,catuai,natural-dry,1450.0,80.75
+costa rica,san ramon,2014,caturra,washed-wet,1300.0,80.75
+mexico,oaxaca,2012,typica,washed-wet,1200.0,80.75
+haiti,haiti,2012,typica,washed-wet,1000.0,80.75
+taiwan,taiwan,2016,typica,other,,80.67
+guatemala,antigua,2015,bourbon,washed-wet,1500.0,80.67
+malawi,southern- zomba,2014,caturra,washed-wet,995.0,80.67
+mexico,"el desmoronado, talpan de allende jalisco",2014,typica,washed-wet,1200.0,80.67
+colombia,santander,2014,caturra,natural-dry,1550.0,80.67
+guatemala,"san lucas toliman, solola",2013,bourbon,washed-wet,1550.0,80.67
+guatemala,oriente,2012,bourbon,washed-wet,,80.67
+guatemala,oriente,2012,bourbon,washed-wet,,80.67
+"tanzania, united republic of",arusha,2014,other,washed-wet,1400.0,80.58
+brazil,south of minas,2014,bourbon,semi-washed-semi-pulped,1200.0,80.58
+honduras,occidental,2014,caturra,washed-wet,1400.0,80.58
+guatemala,huehuetenango,2014,bourbon,natural-dry,1383.792,80.58
+guatemala,santa rosa,2017,caturra,washed-wet,1500.0,80.5
+honduras,ocotepeque,2017,catuai,washed-wet,1650.0,80.5
+brazil,vale da grama,2015,yellow bourbon,semi-washed-semi-pulped,1250.0,80.5
+myanmar,pyin oo lwin,2015,other,washed-wet,3800.0,80.5
+guatemala,oriente,2014,other,washed-wet,1219.2,80.5
+brazil,mantiqueira de minas,2013,yellow bourbon,semi-washed-semi-pulped,1250.0,80.5
+united states (hawaii),kona,2013,hawaiian kona,natural-dry,,80.5
+guatemala,huehuetenango,2013,bourbon,washed-wet,1859.28,80.5
+mexico,zaragoza itundujia,2012,typica,washed-wet,1450.0,80.5
+taiwan,南投國姓,2014,typica,washed-wet,600.0,80.42
+el salvador,"department of ahuachapan, municipality of apanecallamatepec mountain",2013,bourbon,washed-wet,1450.0,80.42
+china,yunnan,2013,other,washed-wet,1700.0,80.42
+taiwan,nantou,2013,typica,washed-wet,600.0,80.42
+mexico,pochutla,2012,typica,washed-wet,1050.0,80.42
+mexico,la concordia,2012,caturra,washed-wet,1550.0,80.42
+"tanzania, united republic of",mkuu rombo,2015,bourbon,washed-wet,1700.0,80.33
+"tanzania, united republic of",arusha,2014,other,washed-wet,,80.33
+taiwan,taichung xinshe 台中市新社區,2013,yellow bourbon,other,600.0,80.33
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,80.33
+mexico,chilón,2012,typica,semi-washed-semi-pulped,940.0,80.33
+united states (hawaii),kona,2012,hawaiian kona,washed-wet,,80.33
+brazil,cerrado - monte carmelo - minas gerais,2017,catuai,natural-dry,995.0,80.25
+honduras,comayagua,2016,caturra,natural-dry,1400.0,80.25
+mexico,sierra madre occidental,2016,caturra,washed-wet,1600.0,80.25
+myanmar,"yauk sauk, shan state",2015,other,natural-dry,914.4,80.25
+myanmar,ywar ngan,2014,catuai,natural-dry,4287.0,80.25
+nicaragua,matagalpa,2015,caturra,washed-wet,900.0,80.25
+united states (hawaii),kona,2014,hawaiian kona,natural-dry,,80.25
+colombia,,2012,typica,washed-wet,,80.25
+taiwan,chiayi fanlu嘉義縣番路鄉,2013,typica,semi-washed-semi-pulped,700.0,80.25
+guatemala,oriente,2012,caturra,washed-wet,1400.0,80.25
+mexico,"calnali, hidalgo",2012,caturra,washed-wet,808.0,80.25
+vietnam,dala,2017,catimor,other,1550.0,80.17
+nicaragua,jinotega,2015,caturra,washed-wet,1187.5,80.17
+honduras,marcala,2015,catuai,washed-wet,1400.0,80.17
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,80.17
+mexico,coatepec,2012,typica,washed-wet,1250.0,80.17
+mexico,zaragoza itundujia,2012,typica,washed-wet,1550.0,80.17
+mexico,veracruz,2012,bourbon,washed-wet,1000.0,80.17
+guatemala,oriente,2012,bourbon,washed-wet,1310.64,80.17
+brazil,mantiqueira de minas,2017,bourbon,pulped natural-honey,1100.0,80.08
+taiwan,苗栗泰安,2014,typica,washed-wet,850.0,80.08
+taiwan,yunlin gukeng he bao 雲林縣古坑鄉荷苞村,2013,typica,other,200.0,80.08
+taiwan,changhua baguashan 彰化市八卦山,2013,typica,semi-washed-semi-pulped,250.0,80.08
+mexico,zaragoza itundujia,2012,typica,washed-wet,1300.0,80.08
+mexico,escuitla,2012,typica,washed-wet,1300.0,80.08
+nicaragua,jinotega,2017,caturra,washed-wet,1250.0,80.0
+myanmar,"doe kwin, pyin oo lwin",2015,other,washed-wet,3845.0,80.0
+mexico,"sierra fraylesca, chiapas",2014,typica,washed-wet,1400.0,80.0
+taiwan,changhua baguashan 彰化市八卦山,2013,typica,washed-wet,250.0,80.0
+mexico,coatepec,2012,typica,washed-wet,1250.0,80.0
+mexico,san miguel del puerto,2012,other,washed-wet,1100.0,80.0
+united states (hawaii),kona,2014,hawaiian kona,natural-dry,,79.92
+mexico,chiapas,2013,bourbon,washed-wet,1300.0,79.92
+mexico,"motozintla, chiapas",2012,other,washed-wet,1100.0,79.92
+mexico,veracruz,2012,bourbon,washed-wet,1100.0,79.92
+mexico,jaltenango,2012,catuai,washed-wet,1100.0,79.92
+mexico,coatepec,2012,typica,natural-dry,1250.0,79.92
+mexico,veracruz,2012,mundo novo,washed-wet,1250.0,79.92
+guatemala,san marcos,2017,bourbon,washed-wet,1700.0,79.83
+nicaragua,jinotega,2014,caturra,washed-wet,1250.0,79.83
+mexico,veracruz,2012,typica,washed-wet,1300.0,79.83
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,79.83
+taiwan,"taiwu township , pingtung county 屏東縣泰武鄉",2014,typica,natural-dry,1000.0,79.75
+taiwan,"baihe dist., tainan city 臺南市白河區",2013,typica,washed-wet,600.0,79.75
+costa rica,brunca,2013,catuai,washed-wet,1100.0,79.75
+mexico,"la concordia, chiapas",2013,typica,washed-wet,1400.0,79.75
+mexico,chiapas,2013,bourbon,washed-wet,1022.0,79.75
+mexico,chiapas,2013,bourbon,washed-wet,1300.0,79.75
+mexico,zaragoza itundujia,2012,bourbon,washed-wet,1450.0,79.75
+mexico,pochutla,2012,typica,washed-wet,1050.0,79.75
+guatemala,antigua,2012,bourbon,washed-wet,,79.75
+mexico,tuxtla gutierrez,2012,typica,washed-wet,1100.0,79.75
+guatemala,oriente,2016,bourbon,washed-wet,1219.2,79.67
+el salvador,cacahuatique,2016,bourbon,washed-wet,1250.0,79.67
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,79.67
+mexico,"la concordia, chiapas",2013,typica,washed-wet,1400.0,79.67
+mexico,"tenango de doria, hidalgo",2012,caturra,washed-wet,975.0,79.67
+mexico,"coatepec, coatepec",2012,mundo novo,washed-wet,1264.0,79.67
+mexico,tepetzingo,2012,typica,washed-wet,1250.0,79.58
+mexico,la concordia,2012,caturra,washed-wet,1550.0,79.58
+nicaragua,jinotega,2015,caturra,natural-dry,1050.0,79.5
+taiwan,nantou,2014,typica,natural-dry,700.0,79.5
+colombia,cundinamarca,2013,caturra,washed-wet,1550.0,79.5
+mexico,la concordia,2012,caturra,washed-wet,1550.0,79.5
+mexico,"coatepec, coatepec",2012,typica,washed-wet,1100.0,79.5
+guatemala,oriente,2013,bourbon,washed-wet,1219.2,79.42
+guatemala,oriente,2014,other,washed-wet,1219.2,79.42
+mexico,xicotepec de juarez,2012,typica,washed-wet,800.0,79.42
+colombia,pereira,2013,caturra,washed-wet,1200.0,79.33
+mexico,zentla,2012,typica,washed-wet,950.0,79.33
+mexico,zentla,2012,typica,washed-wet,750.0,79.33
+guatemala,oriente,2012,bourbon,washed-wet,,79.33
+taiwan,natou county,2014,typica,washed-wet,850.0,79.25
+mexico,veracruz,2012,bourbon,washed-wet,1000.0,79.25
+guatemala,santa rosa,2017,bourbon,washed-wet,1219.2,79.17
+honduras,ocotepeque,2017,catuai,washed-wet,1650.0,79.17
+guatemala,occidente,2016,bourbon,washed-wet,1320.0,79.17
+guatemala,nuevo oriente,2015,catuai,washed-wet,1550.0,79.17
+costa rica,san rafael,2012,catuai,washed-wet,,79.17
+mexico,zaragoza itundujia,2012,typica,washed-wet,1550.0,79.17
+mexico,yajalon,2012,typica,washed-wet,1450.0,79.17
+mexico,"pluma hidalogo, oaxaca",,typica,,1200.0,79.17
+guatemala,san marcos,2017,bourbon,washed-wet,1700.0,79.08
+united states (puerto rico),yauco region,2013,other,washed-wet,853.44,79.08
+mexico,zaragoza itundujia,2012,typica,washed-wet,1500.0,79.08
+mexico,tlacuilotepec,2012,mundo novo,washed-wet,1100.0,79.08
+mexico,talpa de allende,2012,typica,washed-wet,1200.0,79.08
+guatemala,oriente,2014,other,washed-wet,1219.2,79.0
+honduras,intibuca,2014,pacas,washed-wet,1350.0,79.0
+peru,san ignacio,2012,typica,washed-wet,1400.0,79.0
+mexico,"iliatenco, guerrero",2012,mundo novo,natural-dry,1300.0,79.0
+mexico,zaragoza itundujia,2012,typica,semi-washed-semi-pulped,1550.0,79.0
+mexico,"la concordia, chiapas",2013,typica,washed-wet,1300.0,78.92
+mexico,zaragoza itundujia,2012,typica,washed-wet,1400.0,78.92
+nicaragua,jalapa,2016,caturra,other,1100.0,78.83
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,78.75
+mexico,veracruz,2012,typica,washed-wet,1320.0,78.75
+mexico,veracruz,2012,typica,semi-washed-semi-pulped,1250.0,78.75
+mexico,"ohuapan, tlaltetela",2012,bourbon,washed-wet,1350.0,78.75
+china,yunnan,2013,typica,washed-wet,1850.0,78.67
+mexico,yecuatla,2012,caturra,washed-wet,1150.0,78.67
+guatemala,oriente,2014,other,washed-wet,1219.2,78.58
+taiwan,"dongshan dist., tainan city 臺南市東山區",2013,typica,washed-wet,800.0,78.58
+mexico,tapachula,2012,typica,washed-wet,1400.0,78.58
+mexico,cofradia de suchitlan,2012,typica,washed-wet,1300.0,78.58
+mexico,"sierra, chiapas",2014,bourbon,washed-wet,1600.0,78.5
+mexico,villa talea de castro,2012,typica,washed-wet,1400.0,78.5
+mexico,los angeles,2012,caturra,washed-wet,1200.0,78.5
+brazil,monte carmelo,2014,catuai,natural-dry,,78.42
+mexico,zaragoza itundujia,2012,typica,washed-wet,1500.0,78.42
+united states (hawaii),kona,2014,hawaiian kona,natural-dry,,78.33
+guatemala,oriente,2014,other,washed-wet,1219.2,78.33
+guatemala,oriente,2012,bourbon,washed-wet,1310.64,78.33
+mexico,"xochitonalco, huautla        ",2012,typica,natural-dry,1300.0,78.33
+guatemala,oriente,2012,bourbon,washed-wet,,78.33
+united states (hawaii),kona,2014,hawaiian kona,natural-dry,,78.25
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,78.25
+mexico,cordoba,2012,typica,washed-wet,1050.0,78.08
+taiwan,"台南市東山區( dongshan dist., tainan city)",2016,yellow bourbon,washed-wet,650.0,78.0
+honduras,intibuca,2014,pacas,natural-dry,1350.0,78.0
+united states (hawaii),kona,2014,hawaiian kona,natural-dry,,78.0
+guatemala,oriente,2014,other,washed-wet,1219.2,78.0
+china,yunnan,2013,typica,washed-wet,1200.0,78.0
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,78.0
+mexico,"motozintla, chiapas",2012,other,washed-wet,850.0,78.0
+costa rica,occidental,2014,caturra,washed-wet,1200.0,77.92
+mexico,petatlan,2012,typica,washed-wet,1248.0,77.92
+guatemala,oriente,2012,bourbon,washed-wet,,77.92
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,77.83
+taiwan,"dongshan dist., tainan city 臺南市東山區",2012,typica,washed-wet,775.0,77.67
+mexico,coatepec,2012,typica,washed-wet,1300.0,77.5
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,77.42
+brazil,south of minas,2017,bourbon,natural-dry,890.0,77.33
+guatemala,oriente,2014,other,washed-wet,1219.2,77.33
+mexico,zaragoza itundujia,2012,typica,washed-wet,1500.0,77.33
+haiti,"dondon, haiti",2013,typica,washed-wet,825.0,77.25
+mexico,"motozintla, chiapas",2012,other,washed-wet,1200.0,77.17
+peru,san ignacio,2014,caturra,washed-wet,1200.0,77.0
+mexico,"pluma hidalogo, oaxaca",,typica,,1200.0,76.75
+guatemala,oriente,2012,bourbon,washed-wet,,76.5
+mexico,coatepec,2012,typica,washed-wet,1100.0,76.42
+guatemala,oriente,2012,bourbon,washed-wet,1310.64,76.33
+guatemala,oriente,2011,bourbon,washed-wet,,76.33
+united states (hawaii),kona,2014,hawaiian kona,natural-dry,,76.25
+mexico,zaragoza itundujia,2012,typica,washed-wet,1400.0,76.17
+indonesia,indonesia,2011,other,natural-dry,3500.0,76.17
+mexico,tepictla,2012,bourbon,washed-wet,1250.0,76.08
+honduras,intibuca,2014,pacas,natural-dry,1350.0,76.0
+guatemala,oriente,2012,bourbon,washed-wet,1310.64,75.58
+guatemala,oriente,2012,bourbon,washed-wet,,75.58
+mexico,ocosingo,2012,mundo novo,washed-wet,1200.0,75.17
+mexico,,2012,other,washed-wet,1100.0,75.17
+mexico,huautla de jimenez,2012,typica,washed-wet,1280.0,75.17
+mexico,menglian,2012,typica,washed-wet,850.0,75.0
+mexico,zaragoza itundujia,2012,typica,washed-wet,1500.0,74.92
+mexico,coatepec,2012,typica,washed-wet,1250.0,74.83
+guatemala,oriente,2012,bourbon,washed-wet,,74.75
+guatemala,oriente,2012,bourbon,washed-wet,,74.75
+mexico,chiapas,2013,typica,washed-wet,1700.0,74.67
+united states (hawaii),kona,2014,hawaiian kona,natural-dry,,74.42
+guatemala,oriente,2013,bourbon,washed-wet,1310.64,74.33
+mexico,"chocaman, veracruz",2012,typica,washed-wet,1140.0,74.33
+mexico,xalapa,2012,typica,washed-wet,1200.0,74.0
+mexico,coatepec,2012,typica,washed-wet,1250.0,73.83
+united states (hawaii),kona,2012,hawaiian kona,natural-dry,,73.67
+honduras,intibuca,2014,pacas,washed-wet,1350.0,73.42
+mexico,sierra alta mixe y zapoteca,2014,typica,washed-wet,1200.0,72.92
+united states (hawaii),kona,2014,hawaiian kona,natural-dry,,72.58
+costa rica,occidental,2014,caturra,washed-wet,1200.0,71.75
+mexico,tlatlauquitepec,2012,mundo novo,washed-wet,800.0,71.08
+mexico,veracruz,2012,bourbon,washed-wet,1800.0,71.0
+mexico,"sierra norte yajalon, chiapas",2014,typica,washed-wet,1000.0,70.75
+honduras,marcala,2014,catuai,washed-wet,1450.0,69.33
+honduras,marcala,2014,catuai,washed-wet,1450.0,69.17
+honduras,marcala,2014,catuai,washed-wet,1450.0,69.17
+mexico,juchique de ferrer,2012,bourbon,washed-wet,900.0,68.33
+haiti,"department d'artibonite , haiti",2012,typica,natural-dry,350.0,67.92
+nicaragua,jalapa,2016,caturra,other,1100.0,63.08
+guatemala,nuevo oriente,2012,catuai,washed-wet,1417.32,59.83
